@@ -55,9 +55,9 @@ export function Hero() {
           "@keyframes fadeUp": { from: { opacity: 0, transform: "translateY(24px)" }, to: { opacity: 1, transform: "none" } },
         }}
       >
-        Votre présence web,<br />
+        Des expériences web sur mesure,<br />
         <Box component="span" sx={{ background: "linear-gradient(135deg, #00D4FF, #7B5FFF)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>
-          pensée pour convertir
+          pensées pour vos résultats
         </Box>
       </Typography>
 

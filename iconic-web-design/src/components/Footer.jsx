@@ -18,7 +18,7 @@ export function Footer() {
           © 2025 Iconic Web Design · Nord de France
         </Typography>
         <Typography variant="body2" sx={{ color: "text.secondary" }}>
-          contact@iconicwebdesign.fr
+          contact@iconic-web-design.fr
         </Typography>
       </Stack>
     </Box>
