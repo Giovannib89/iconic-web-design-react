@@ -39,12 +39,12 @@ export function Services() {
         </Reveal>
         <Reveal delay={80}>
           <Typography variant="h2" sx={{ fontSize: { xs: "1.8rem", md: "2.6rem" }, mb: 1 }}>
-            Deux approches,<br />une seule ambition
+            Création ou refonte,<br />une seule ambition
           </Typography>
         </Reveal>
         <Reveal delay={160}>
           <Typography variant="body1" sx={{ color: "text.secondary", fontWeight: 300, maxWidth: 460, mb: 6 }}>
-            Que vous ayez besoin d'un site WordPress flexible ou d'une solution 100% sur mesure, nous livrons des sites qui performent.
+            Que vous ayez besoin d'un site WordPress flexible, d'une solution 100% sur mesure ou d'une refonte complète, nous livrons des sites qui performent.
           </Typography>
         </Reveal>
         <Grid container spacing={3}>

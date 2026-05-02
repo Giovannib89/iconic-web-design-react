@@ -73,7 +73,7 @@ export function Hero() {
           animation: "fadeUp 0.8s 0.2s ease both",
         }}
       >
-        Iconic Web Design crée des sites WordPress sur mesure et des applications web codées from scratch — rapides, modernes et taillés pour vos objectifs.
+        Vous avez un projet, une activité, quelque chose à partager ? Iconic Web Design crée le site qui vous ressemble — agréable à regarder, facile à utiliser, et qui donne envie de vous contacter.
       </Typography>
 
       <Stack direction="row" gap={2} justifyContent="center" flexWrap="wrap" sx={{ animation: "fadeUp 0.8s 0.3s ease both" }}>
@@ -107,7 +107,7 @@ export function Hero() {
         sx={{ borderTop: "0.5px solid rgba(0,212,255,0.15)", animation: "fadeUp 0.8s 0.4s ease both" }}
       >
         {[
-          ["50+", "Sites livrés"],
+          // ["50+", "Sites livrés"],
           ["100%", "Satisfaction client"],
           ["48h", "Délai de réponse"],
         ].map(([n, l]) => (
