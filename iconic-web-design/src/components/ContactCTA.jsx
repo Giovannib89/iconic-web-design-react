@@ -26,7 +26,7 @@ export function ContactCTA() {
             <Typography sx={{ color: "text.secondary", mb: 4, fontWeight: 300 }}>
               Devis gratuit · Réponse sous 48h · Sans engagement
             </Typography>
-            <Button variant="contained" color="primary" size="large" href="mailto:contact@iconicwebdesign.fr" sx={{ px: 4 }}>
+            <Button variant="contained" color="primary" size="large" href="mailto:contact@iconic-web-design.fr" sx={{ px: 4 }}>
               Obtenir mon devis gratuit
             </Button>
           </Box>
